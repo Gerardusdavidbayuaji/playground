@@ -1,0 +1,14 @@
+# Build & Output Folders
+[Bb]in/
+[Oo]bj/
+
+# IDE / JetBrains Rider
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Visual Studio / Rider temp files
+.vs/
