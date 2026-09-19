@@ -9,7 +9,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="1-fundamental\part-2\" />
       <Folder Include="1-fundamental\part-3\" />
     </ItemGroup>
 
